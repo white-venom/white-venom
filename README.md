@@ -19,6 +19,7 @@ the autograd by gradient-checking, and so on).
 - [Sorting visualizer](https://white-venom.github.io/sorting-visualizer/) — six algorithms with comparison/swap counters · [code](https://github.com/white-venom/sorting-visualizer)
 - [Huffman coding](https://white-venom.github.io/huffman-coding/) — build the tree, compress, visualize it · [code](https://github.com/white-venom/huffman-coding)
 - [Mini spreadsheet](https://white-venom.github.io/mini-spreadsheet/) — a real formula engine with dependency-ordered recalculation · [code](https://github.com/white-venom/mini-spreadsheet)
+- [Sudoku solver](https://white-venom.github.io/sudoku-solver/) — backtracking solver + generator with an animated search · [code](https://github.com/white-venom/sudoku-solver)
 
 **Machine learning**
 - [Neural net playground](https://white-venom.github.io/neural-net-playground/) — a hand-written autograd + MLP, trained live with a decision-boundary view · [code](https://github.com/white-venom/neural-net-playground)
