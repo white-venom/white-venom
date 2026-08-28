@@ -27,6 +27,8 @@ the autograd by gradient-checking, and so on).
 - [Rubik's cube](https://white-venom.github.io/rubiks-cube/) — interactive 3D cube (Three.js) with a real face-turn engine · [code](https://github.com/white-venom/rubiks-cube)
 - [Game of Life](https://white-venom.github.io/game-of-life/) — draw cells, stamp glider guns, watch it run · [code](https://github.com/white-venom/game-of-life)
 - [Boids](https://white-venom.github.io/boids-flocking/) — flocking from three simple rules · [code](https://github.com/white-venom/boids-flocking)
+- [Fractal explorer](https://white-venom.github.io/fractal-explorer/) — zoom endlessly into the Mandelbrot set · [code](https://github.com/white-venom/fractal-explorer)
+- [Raycaster](https://white-venom.github.io/raycaster/) — Wolfenstein-style fake 3D from a 2D grid · [code](https://github.com/white-venom/raycaster)
 
 **Tools**
 - [Markdown editor](https://white-venom.github.io/markdown-editor/) — live preview with a from-scratch, XSS-safe parser · [code](https://github.com/white-venom/markdown-editor)
