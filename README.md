@@ -32,6 +32,7 @@ the autograd by gradient-checking, and so on).
 
 **Tools**
 - [Markdown editor](https://white-venom.github.io/markdown-editor/) — live preview with a from-scratch, XSS-safe parser · [code](https://github.com/white-venom/markdown-editor)
+- [Text diff](https://white-venom.github.io/text-diff/) — a git-style line diff via longest common subsequence · [code](https://github.com/white-venom/text-diff)
 
 ## Reach me
 
