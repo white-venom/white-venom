@@ -30,6 +30,7 @@ the autograd by gradient-checking, and so on).
 - [Boids](https://white-venom.github.io/boids-flocking/) — flocking from three simple rules · [code](https://github.com/white-venom/boids-flocking)
 - [Fractal explorer](https://white-venom.github.io/fractal-explorer/) — zoom endlessly into the Mandelbrot set · [code](https://github.com/white-venom/fractal-explorer)
 - [Raycaster](https://white-venom.github.io/raycaster/) — Wolfenstein-style fake 3D from a 2D grid · [code](https://github.com/white-venom/raycaster)
+- [Verlet physics](https://white-venom.github.io/verlet-physics/) — cloth & rope you can drag and cut, no physics library · [code](https://github.com/white-venom/verlet-physics)
 
 **Tools**
 - [Markdown editor](https://white-venom.github.io/markdown-editor/) — live preview with a from-scratch, XSS-safe parser · [code](https://github.com/white-venom/markdown-editor)
