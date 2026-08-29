@@ -158,20 +158,20 @@
           <animate attributeName="opacity" values="0;.85;.5;.9" dur="3.7s"
             begin="3.8s" repeatCount="indefinite"/></rect><text x="427" y="232" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="8.5" fill="#818b98"
       text-anchor="end" transform="rotate(-38 427 232)" opacity="0">minerax-sampl…
-      <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.42s" fill="freeze"/></text><polygon points="510,156.42424242424244 516,150.42424242424244 516,210 510,216" fill="#3178c6" opacity=".22"/><polygon points="464,156.42424242424244 470,150.42424242424244 516,150.42424242424244 510,156.42424242424244" fill="#3178c6" opacity=".45"/><rect x="464" y="216" width="46" height="0" fill="#f6f8fa" stroke="#3178c6" stroke-opacity=".5">
+      <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.42s" fill="freeze"/></text><polygon points="510,156.42424242424244 516,150.42424242424244 516,210 510,216" fill="#f1e05a" opacity=".22"/><polygon points="464,156.42424242424244 470,150.42424242424244 516,150.42424242424244 510,156.42424242424244" fill="#f1e05a" opacity=".45"/><rect x="464" y="216" width="46" height="0" fill="#f6f8fa" stroke="#f1e05a" stroke-opacity=".5">
       <animate attributeName="height" from="0" to="60" dur=".9s" begin="0.49s" fill="freeze"/>
-      <animate attributeName="y" from="216" to="156" dur=".9s" begin="0.49s" fill="freeze"/></rect><rect x="472" y="166" width="6" height="7" rx="1" fill="#3178c6" opacity="0">
+      <animate attributeName="y" from="216" to="156" dur=".9s" begin="0.49s" fill="freeze"/></rect><rect x="472" y="166" width="6" height="7" rx="1" fill="#f1e05a" opacity="0">
           <animate attributeName="opacity" values="0;.85;.5;.9" dur="3.9s"
-            begin="3.1s" repeatCount="indefinite"/></rect><rect x="496" y="166" width="6" height="7" rx="1" fill="#3178c6" opacity="0">
+            begin="3.1s" repeatCount="indefinite"/></rect><rect x="496" y="166" width="6" height="7" rx="1" fill="#f1e05a" opacity="0">
           <animate attributeName="opacity" values="0;.85;.5;.9" dur="3.1s"
-            begin="2.9s" repeatCount="indefinite"/></rect><rect x="472" y="182" width="6" height="7" rx="1" fill="#3178c6" opacity="0">
+            begin="2.9s" repeatCount="indefinite"/></rect><rect x="472" y="182" width="6" height="7" rx="1" fill="#f1e05a" opacity="0">
           <animate attributeName="opacity" values="0;.85;.5;.9" dur="6.7s"
-            begin="3.8s" repeatCount="indefinite"/></rect><rect x="496" y="182" width="6" height="7" rx="1" fill="#3178c6" opacity="0">
+            begin="3.8s" repeatCount="indefinite"/></rect><rect x="496" y="182" width="6" height="7" rx="1" fill="#f1e05a" opacity="0">
           <animate attributeName="opacity" values="0;.85;.5;.9" dur="3.8s"
-            begin="3.4s" repeatCount="indefinite"/></rect><rect x="472" y="198" width="6" height="7" rx="1" fill="#3178c6" opacity="0">
+            begin="3.4s" repeatCount="indefinite"/></rect><rect x="472" y="198" width="6" height="7" rx="1" fill="#f1e05a" opacity="0">
           <animate attributeName="opacity" values="0;.85;.5;.9" dur="4.7s"
             begin="2.1s" repeatCount="indefinite"/></rect><text x="487" y="232" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="8.5" fill="#818b98"
-      text-anchor="end" transform="rotate(-38 487 232)" opacity="0">ss-law-office…
+      text-anchor="end" transform="rotate(-38 487 232)" opacity="0">white-venom
       <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.49s" fill="freeze"/></text><polygon points="570,156.42424242424244 576,150.42424242424244 576,210 570,216" fill="#3178c6" opacity=".22"/><polygon points="524,156.42424242424244 530,150.42424242424244 576,150.42424242424244 570,156.42424242424244" fill="#3178c6" opacity=".45"/><rect x="524" y="216" width="46" height="0" fill="#f6f8fa" stroke="#3178c6" stroke-opacity=".5">
       <animate attributeName="height" from="0" to="60" dur=".9s" begin="0.56s" fill="freeze"/>
       <animate attributeName="y" from="216" to="156" dur=".9s" begin="0.56s" fill="freeze"/></rect><rect x="544" y="166" width="6" height="7" rx="1" fill="#3178c6" opacity="0">
@@ -185,7 +185,7 @@
             begin="2.8s" repeatCount="indefinite"/></rect><rect x="556" y="198" width="6" height="7" rx="1" fill="#3178c6" opacity="0">
           <animate attributeName="opacity" values="0;.85;.5;.9" dur="3.6s"
             begin="2.6s" repeatCount="indefinite"/></rect><text x="547" y="232" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="8.5" fill="#818b98"
-      text-anchor="end" transform="rotate(-38 547 232)" opacity="0">minerax-sampl…
+      text-anchor="end" transform="rotate(-38 547 232)" opacity="0">ss-law-office…
       <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.56s" fill="freeze"/></text><polygon points="630,156.42424242424244 636,150.42424242424244 636,210 630,216" fill="#3178c6" opacity=".22"/><polygon points="584,156.42424242424244 590,150.42424242424244 636,150.42424242424244 630,156.42424242424244" fill="#3178c6" opacity=".45"/><rect x="584" y="216" width="46" height="0" fill="#f6f8fa" stroke="#3178c6" stroke-opacity=".5">
       <animate attributeName="height" from="0" to="60" dur=".9s" begin="0.63s" fill="freeze"/>
       <animate attributeName="y" from="216" to="156" dur=".9s" begin="0.63s" fill="freeze"/></rect><rect x="592" y="166" width="6" height="7" rx="1" fill="#3178c6" opacity="0">
@@ -231,6 +231,6 @@
             begin="4.0s" repeatCount="indefinite"/></rect><rect x="724" y="198" width="6" height="7" rx="1" fill="#3178c6" opacity="0">
           <animate attributeName="opacity" values="0;.85;.5;.9" dur="5.6s"
             begin="3.1s" repeatCount="indefinite"/></rect><text x="727" y="232" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="8.5" fill="#818b98"
-      text-anchor="end" transform="rotate(-38 727 232)" opacity="0">xenelasia-web…
-      <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.77s" fill="freeze"/></text><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="2s" fill="freeze"/><circle cx="48" cy="254" r="4" fill="#e34c26"/><text x="58" y="258" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="9.5" fill="#818b98">HTML</text><circle cx="92.8" cy="254" r="4" fill="#3178c6"/><text x="102.8" y="258" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="9.5" fill="#818b98">TypeScript</text></g>
+      text-anchor="end" transform="rotate(-38 727 232)" opacity="0">minerax-sampl…
+      <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.77s" fill="freeze"/></text><g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="2s" fill="freeze"/><circle cx="48" cy="254" r="4" fill="#e34c26"/><text x="58" y="258" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="9.5" fill="#818b98">HTML</text><circle cx="92.8" cy="254" r="4" fill="#3178c6"/><text x="102.8" y="258" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="9.5" fill="#818b98">TypeScript</text><circle cx="174.8" cy="254" r="4" fill="#f1e05a"/><text x="184.8" y="258" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="9.5" fill="#818b98">JavaScript</text></g>
 </svg>
