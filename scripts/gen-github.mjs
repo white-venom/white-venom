@@ -37,7 +37,12 @@ async function repoCommitCount(full) {
 async function collectRepos() {
   const owned = (await safeFetch(
     `https://api.github.com/users/${USER}/repos?per_page=100&sort=pushed`, { headers: GH })) ?? [];
-  const names = new Set(owned.filter((r) => !r.fork).map((r) => r.full_name));
+  // An allow-list beats "top 12 by commits": scaffold and sample repos out-commit
+  // the real projects, and the skyline is a portfolio, not a leaderboard.
+  const allow = cfg.github.skylineRepos ?? [];
+  const names = new Set(
+    allow.length ? allow : owned.filter((r) => !r.fork).map((r) => r.full_name),
+  );
   for (const extra of cfg.github.extraRepos ?? []) names.add(extra);
 
   const repos = [];
@@ -105,19 +110,21 @@ function skyline(repos, t) {
             begin="${(1 + rnd() * 3).toFixed(1)}s" repeatCount="indefinite"/></rect>`;
       }
     }
-    const label = r.name.length > 14 ? r.name.slice(0, 13) + '…' : r.name;
-    g += `<text x="${x + bw / 2}" y="${base + 16}" font-family="${FONT_MONO}" font-size="8.5" fill="${t.fgDim}"
-      text-anchor="end" transform="rotate(-38 ${x + bw / 2} ${base + 16})" opacity="0">${esc(label)}
+    const label = r.name.length > 12 ? r.name.slice(0, 11) + '…' : r.name;
+    g += `<text x="${x + bw / 2}" y="${base + 15}" font-family="${FONT_MONO}" font-size="8" fill="${t.fgDim}"
+      text-anchor="end" transform="rotate(-42 ${x + bw / 2} ${base + 15})" opacity="0">${esc(label)}
       <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="${(1 + i * 0.07).toFixed(2)}s" fill="freeze"/></text>`;
   });
 
-  const langs = [...new Set(repos.map((r) => r.lang))].slice(0, 6);
-  let lx = 44;
+  // key sits on the title row: the rotated repo labels own the bottom band
+  const langs = [...new Set(repos.map((r) => r.lang))].slice(0, 5);
+  const keyWidth = langs.reduce((w, l) => w + 18 + l.length * 5.8, 0);
+  let lx = S_W - 44 - keyWidth;
   g += `<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="2s" fill="freeze"/>`;
   for (const l of langs) {
-    g += `<circle cx="${lx + 4}" cy="${S_H - 16}" r="4" fill="${colourFor(l, t)}"/>`;
-    g += `<text x="${lx + 14}" y="${S_H - 12}" font-family="${FONT_MONO}" font-size="9.5" fill="${t.fgDim}">${esc(l)}</text>`;
-    lx += 20 + l.length * 6.2;
+    g += `<circle cx="${lx + 3.5}" cy="30" r="3.5" fill="${colourFor(l, t)}"/>`;
+    g += `<text x="${lx + 12}" y="${34}" font-family="${FONT_MONO}" font-size="9" fill="${t.fgDim}">${esc(l)}</text>`;
+    lx += 18 + l.length * 5.8;
   }
   g += `</g>`;
 

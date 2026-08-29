@@ -25,16 +25,16 @@
     keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
 </rect>
 
-<text x="22" y="32" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.5" fill="#d63aa8" letter-spacing="2.4">ERP</text>
+<text x="22" y="32" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10.5" fill="#d63aa8" letter-spacing="2.4">ERP</text>
 
-<text x="22" y="58" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#e6edf3">Gayatri Enterprises</text>
+<text x="22" y="58" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#e6edf3">Gayatri Enterprises</text>
 <rect x="197.29999999999998" y="45" width="40.8" height="16" rx="8" fill="#3fb950" fill-opacity=".14" stroke="#3fb950" stroke-opacity=".45"/>
-<text x="217.7" y="56.5" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="9" fill="#3fb950"
+<text x="217.7" y="56.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="9" fill="#3fb950"
       text-anchor="middle" letter-spacing="1">LIVE</text>
 
-<text x="22" y="80" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b949e">B2B chemicals platform covering orders,</text>
-<text x="22" y="95" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b949e">inventory and invoicing for a manufacturer.</text>
+<text x="22" y="80" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b949e">B2B chemicals platform covering orders,</text>
+<text x="22" y="95" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b949e">inventory and invoicing for a manufacturer.</text>
 
-<text x="22" y="130" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11" fill="#39d0d8">Laravel · React</text>
+<text x="22" y="130" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#39d0d8">Laravel · React</text>
 
 </svg>

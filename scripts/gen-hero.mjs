@@ -21,8 +21,8 @@ const hour = Number(ist.slice(0, 2));
 const PHASES = [
   { until: 5,  sky: ['#050912', '#0d1117'], mood: 'PROBABLY STILL SHIPPING', stars: 6 },
   { until: 8,  sky: ['#12111f', '#0d1117'], mood: 'EARLY',                   stars: 3 },
-  { until: 12, sky: ['#0f1620', '#0d1117'], mood: 'AT AFI',                  stars: 0 },
-  { until: 18, sky: ['#101822', '#0d1117'], mood: 'AT AFI',                  stars: 0 },
+  { until: 12, sky: ['#0f1620', '#0d1117'], mood: 'ON THE CLOCK',                  stars: 0 },
+  { until: 18, sky: ['#101822', '#0d1117'], mood: 'ON THE CLOCK',                  stars: 0 },
   { until: 22, sky: ['#141020', '#0d1117'], mood: 'CLIENT WORK',             stars: 2 },
   { until: 24, sky: ['#0a0d1a', '#0d1117'], mood: 'PROBABLY STILL SHIPPING', stars: 5 },
 ];

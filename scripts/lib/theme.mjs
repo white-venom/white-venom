@@ -46,7 +46,7 @@ export const THEMES = {
   },
 };
 
-export const FONT_SANS = '-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif';
-export const FONT_MONO = 'ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace';
+export const FONT_SANS = `-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif`;
+export const FONT_MONO = `ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace`;
 
 export const eachTheme = (fn) => Object.values(THEMES).map(fn);

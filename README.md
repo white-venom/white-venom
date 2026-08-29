@@ -96,9 +96,6 @@ autograd. **[The full build hub →](./PROJECTS.md)**
 
 ## Activity
 
-<img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=white-venom&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=8b949e&icon_color=39d0d8&ring_color=a371f7" />
-<img alt="Contribution streak" height="165" src="https://streak-stats.demolab.com?user=white-venom&hide_border=true&background=0d1117&ring=e3903a&fire=e3903a&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=e3903a&dates=5a6675&sideNums=e6edf3" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
   <img alt="Commit activity over the last 20 weeks." src="./assets/activity-light.svg" width="100%">
@@ -115,8 +112,8 @@ autograd. **[The full build hub →](./PROJECTS.md)**
 
 ## Security
 
-CEH certified. I run OWASP Top 10 assessments at AFI, so I watch what lands against
-the things I actually ship.
+CEH certified, and the same hands that ship these systems test them — OWASP Top 10
+assessments, so I watch what lands against the stack I actually run in production.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/security-dark.svg">

@@ -10,7 +10,21 @@
 
   "github": {
     "primary": "white-venom",
-    "_comment": "extraRepos: owner/name for work on your agency accounts you want counted in the skyline",
+    "_comment": "skylineRepos is the allow-list the skyline draws from — without it the sample/scaffold repos out-commit the real work. extraRepos are private agency repos: they only appear when PROFILE_TOKEN can see them.",
+    "skylineRepos": [
+      "white-venom/Vantix",
+      "white-venom/revvmotiv",
+      "white-venom/hawkeye-siem",
+      "white-venom/chess-engine",
+      "white-venom/neural-net-playground",
+      "white-venom/regex-engine",
+      "white-venom/tiny-interpreter",
+      "white-venom/mini-spreadsheet",
+      "white-venom/pathfinding-visualizer",
+      "white-venom/rubiks-cube",
+      "white-venom/sorting-visualizer",
+      "white-venom/huffman-coding"
+    ],
     "extraRepos": [
       "bizflows1/crediiflow",
       "bizflows1/workin",
@@ -22,14 +36,14 @@
   "ticker": [
     {
       "label": "VANTIX",
-      "url": "https://vantix.example.com/api/public/stats",
+      "url": "https://vantix.bizflows.in/api/public/stats",
       "path": "signals_this_month",
       "suffix": " signals this month",
       "fallback": "live signal engine"
     },
     {
       "label": "CREDIIFLOW",
-      "url": "https://crediiflow.in/api/public/stats",
+      "url": "https://api.crediiflow.in/public/stats",
       "path": "collections_today",
       "suffix": " collections today",
       "fallback": "multi-tenant, in production"
