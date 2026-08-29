@@ -56,6 +56,8 @@ jobs:
           # a sibling workflow may have pushed while we were generating
           for i in 1 2 3; do
             if git push; then exit 0; fi
-            git pull --rebase --autostash
+            git fetch origin main
+            # generated files: keep the copy this run just built
+            git rebase -X theirs origin/main || { git rebase --abort; exit 1; }
           done
           echo "could not push after 3 attempts"; exit 1
