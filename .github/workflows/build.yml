@@ -1,0 +1,55 @@
+name: Rebuild profile assets
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'      # hero: live numbers, every 30 min
+    - cron: '17 20 * * *'       # skyline + activity: nightly (01:47 IST)
+    - cron: '5 */6 * * *'       # security: every 6 hours
+  push:
+    branches: [main]
+    paths: ['scripts/**']       # config change -> rebuild everything
+  workflow_dispatch:            # "Run workflow" button, for testing
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Hero (live system stats)
+        run: node scripts/gen-hero.mjs
+
+      - name: Static cards, architecture, divider
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+        run: node scripts/gen-static.mjs
+
+      - name: Skyline and commit activity
+        if: github.event.schedule == '17 20 * * *' || github.event_name != 'schedule'
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+        run: node scripts/gen-github.mjs
+
+      - name: Security feed
+        if: github.event.schedule == '5 */6 * * *' || github.event_name != 'schedule'
+        env:
+          NVD_API_KEY: ${{ secrets.NVD_API_KEY }}
+        run: node scripts/gen-security.mjs
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "profile-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --staged --quiet || git commit -m "chore: refresh profile assets [skip ci]"
+          git push

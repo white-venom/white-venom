@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" role="img" aria-label="System diagram: client referrals flow into Tomoe, through the shared BizFlow platform, out to four client deployments.">
+<title>System diagram: client referrals flow into Tomoe, through the shared BizFlow platform, out to four client deployments.</title>
+
+<defs>
+  <marker id="ah" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto">
+    <path d="M0 0 L7 3.5 L0 7 z" fill="#c2cbd6"/></marker>
+</defs>
+<rect width="840" height="300" fill="#ffffff"/>
+<text x="40" y="30" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" fill="#afb8c1" letter-spacing="2.5">HOW THE WORK ACTUALLY FLOWS</text>
+<g stroke="#c2cbd6" stroke-width="1.4" fill="none" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".8s" begin=".9s" fill="freeze"/><path d="M154,184 C177.5,184 177.5,184 201,184" marker-end="url(#ah)"/><path d="M334,184 C362.5,184 362.5,184 391,184" marker-end="url(#ah)"/><path d="M534,184 C572.5,184 572.5,76 611,76" marker-end="url(#ah)"/><path d="M534,184 C572.5,184 572.5,130 611,130" marker-end="url(#ah)"/><path d="M534,184 C572.5,184 572.5,184 611,184" marker-end="url(#ah)"/><path d="M534,184 C572.5,184 572.5,238 611,238" marker-end="url(#ah)"/></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".6s" begin="1.6s" fill="freeze"/><circle r="2.7" fill="#0f8b93">
+      <animateMotion dur="2.60s" repeatCount="indefinite" path="M154,184 C177.5,184 177.5,184 201,184"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.60s" repeatCount="indefinite"/></circle><circle r="2.7" fill="#0f8b93">
+      <animateMotion dur="2.92s" repeatCount="indefinite" path="M334,184 C362.5,184 362.5,184 391,184"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.92s" repeatCount="indefinite"/></circle><circle r="2.7" fill="#0f8b93">
+      <animateMotion dur="3.24s" repeatCount="indefinite" path="M534,184 C572.5,184 572.5,76 611,76"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.24s" repeatCount="indefinite"/></circle><circle r="2.7" fill="#0f8b93">
+      <animateMotion dur="3.56s" repeatCount="indefinite" path="M534,184 C572.5,184 572.5,130 611,130"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.56s" repeatCount="indefinite"/></circle><circle r="2.7" fill="#0f8b93">
+      <animateMotion dur="3.88s" repeatCount="indefinite" path="M534,184 C572.5,184 572.5,184 611,184"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="3.88s" repeatCount="indefinite"/></circle><circle r="2.7" fill="#0f8b93">
+      <animateMotion dur="4.20s" repeatCount="indefinite" path="M534,184 C572.5,184 572.5,238 611,238"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="4.20s" repeatCount="indefinite"/></circle></g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.00s" fill="freeze"/>
+  <rect x="40" y="164" width="110" height="40" rx="7" fill="#f6f8fa" stroke="fgMute" stroke-opacity=".5"/>
+  <rect x="40" y="171" width="3" height="26" rx="1.5" fill="fgMute"/>
+  <text x="55" y="183" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#1f2328">Clients</text>
+  <text x="55" y="197" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="9.5" fill="#818b98">referrals</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.13s" fill="freeze"/>
+  <rect x="210" y="164" width="120" height="40" rx="7" fill="#f6f8fa" stroke="cyan" stroke-opacity=".5"/>
+  <rect x="210" y="171" width="3" height="26" rx="1.5" fill="cyan"/>
+  <text x="225" y="183" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#1f2328">Tomoe</text>
+  <text x="225" y="197" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="9.5" fill="#818b98">agency</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.26s" fill="freeze"/>
+  <rect x="400" y="164" width="130" height="40" rx="7" fill="#f6f8fa" stroke="violet" stroke-opacity=".5"/>
+  <rect x="400" y="171" width="3" height="26" rx="1.5" fill="violet"/>
+  <text x="415" y="183" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#1f2328">BizFlow core</text>
+  <text x="415" y="197" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="9.5" fill="#818b98">shared platform</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.39s" fill="freeze"/>
+  <rect x="620" y="56" width="180" height="40" rx="7" fill="#f6f8fa" stroke="green" stroke-opacity=".5"/>
+  <rect x="620" y="63" width="3" height="26" rx="1.5" fill="green"/>
+  <text x="635" y="75" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#1f2328">CrediiFlow</text>
+  <text x="635" y="89" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="9.5" fill="#818b98">fintech · live</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.52s" fill="freeze"/>
+  <rect x="620" y="110" width="180" height="40" rx="7" fill="#f6f8fa" stroke="green" stroke-opacity=".5"/>
+  <rect x="620" y="117" width="3" height="26" rx="1.5" fill="green"/>
+  <text x="635" y="129" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#1f2328">Gayatri ERP</text>
+  <text x="635" y="143" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="9.5" fill="#818b98">manufacturing · live</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.65s" fill="freeze"/>
+  <rect x="620" y="164" width="180" height="40" rx="7" fill="#f6f8fa" stroke="green" stroke-opacity=".5"/>
+  <rect x="620" y="171" width="3" height="26" rx="1.5" fill="green"/>
+  <text x="635" y="183" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#1f2328">Agarwal &amp; Co</text>
+  <text x="635" y="197" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="9.5" fill="#818b98">legal · live</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".6s" begin="0.78s" fill="freeze"/>
+  <rect x="620" y="218" width="180" height="40" rx="7" fill="#f6f8fa" stroke="orange" stroke-opacity=".5"/>
+  <rect x="620" y="225" width="3" height="26" rx="1.5" fill="orange"/>
+  <text x="635" y="237" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#1f2328">SlotMedix</text>
+  <text x="635" y="251" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="9.5" fill="#818b98">healthcare · build</text>
+</g>
+
+</svg>

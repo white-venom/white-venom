@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="250" viewBox="0 0 840 250" role="img" aria-label="SUJEET KANSAL — full-stack engineer · security · founder @ tomoe. 0 systems reporting live at 14:35 IST.">
+<title>SUJEET KANSAL — full-stack engineer · security · founder @ tomoe. 0 systems reporting live at 14:35 IST.</title>
+
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#ffffff"/>
+  </linearGradient>
+  <linearGradient id="nm" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#0f8b93">
+      <animate attributeName="stop-color" values="#0f8b93;#8250df;#bf3989;#0f8b93" dur="11s" repeatCount="indefinite"/></stop>
+    <stop offset="100%" stop-color="#8250df">
+      <animate attributeName="stop-color" values="#8250df;#bf3989;#0f8b93;#8250df" dur="11s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+  <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+    <path d="M26 0H0V26" fill="none" stroke="#eceff3" stroke-width="1"/></pattern>
+  <radialGradient id="sweep">
+    <stop offset="0%" stop-color="#0f8b93" stop-opacity=".45"/>
+    <stop offset="100%" stop-color="#0f8b93" stop-opacity="0"/></radialGradient>
+  <clipPath id="tickclip"><rect x="30" y="160" width="780" height="26" rx="4"/></clipPath>
+</defs>
+
+<rect width="840" height="250" fill="url(#sky)"/>
+<rect width="840" height="250" fill="url(#grid)"/>
+
+
+<g stroke="#c2cbd6" stroke-width="1.3" fill="none" opacity="0">
+  <animate attributeName="opacity" from="0" to=".8" dur="1s" begin="2.2s" fill="freeze"/>
+  <path d="M22 46V22h20M818 46V22h-20M22 214v18h20M818 214v18h-20"/>
+</g>
+
+<g transform="translate(722,104)">
+  <circle r="56" fill="none" stroke="#d1d9e0" stroke-width="1"/>
+  <circle r="37" fill="none" stroke="#d1d9e0" stroke-width="1"/>
+  <circle r="18" fill="none" stroke="#d1d9e0" stroke-width="1"/>
+  <path d="M0 0 L56 0 A56 56 0 0 1 28 48 Z" fill="url(#sweep)">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.5s" repeatCount="indefinite"/>
+  </path>
+  <circle r="3" fill="#0f8b93"><animate attributeName="r" values="3;6.5;3" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="33" cy="-16" r="2" fill="#8250df">
+    <animate attributeName="opacity" values="0;1;0" dur="4.5s" repeatCount="indefinite"/></circle>
+  <circle cx="-21" cy="29" r="2" fill="#bf3989">
+    <animate attributeName="opacity" values="0;1;0" dur="4.5s" begin="1.5s" repeatCount="indefinite"/></circle>
+</g>
+
+<g fill="#0f8b93" opacity=".4">
+  <circle cx="70" cy="44" r="2"><animate attributeName="cy" values="44;31;44" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="152" cy="176" r="1.6"><animate attributeName="cy" values="176;163;176" dur="5.5s" repeatCount="indefinite"/></circle>
+  <circle cx="352" cy="36" r="1.8"><animate attributeName="cy" values="36;23;36" dur="4.8s" repeatCount="indefinite"/></circle>
+  <circle cx="492" cy="182" r="2.2"><animate attributeName="cy" values="182;169;182" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="258" cy="188" r="1.4"><animate attributeName="cy" values="188;177;188" dur="4.4s" repeatCount="indefinite"/></circle>
+</g>
+
+<text x="34" y="60" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" fill="#afb8c1" letter-spacing="3" opacity="0">
+  14:35 IST · GHAZIABAD · AT AFI
+  <animate attributeName="opacity" from="0" to="1" dur=".9s" begin="2.4s" fill="freeze"/>
+</text>
+
+<text x="32" y="118" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="44" font-weight="700" letter-spacing="1"
+      fill="none" stroke="url(#nm)" stroke-width="1.3"
+      stroke-dasharray="1600" stroke-dashoffset="1600">SUJEET KANSAL
+  <animate attributeName="stroke-dashoffset" from="1600" to="0" dur="2.8s" fill="freeze"/>
+</text>
+<text x="32" y="118" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="44" font-weight="700" letter-spacing="1"
+      fill="url(#nm)" opacity="0">SUJEET KANSAL
+  <animate attributeName="opacity" from="0" to="1" dur="1.1s" begin="2.1s" fill="freeze"/>
+</text>
+<text x="34" y="142" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="12.5" fill="#818b98" opacity="0">
+  full-stack engineer · security · founder @ tomoe
+  <animate attributeName="opacity" from="0" to="1" dur=".9s" begin="2.5s" fill="freeze"/>
+</text>
+
+<rect x="30" y="160" width="780" height="26" rx="4" fill="#f6f8fa" stroke="#d1d9e0" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".7s" begin="2.7s" fill="freeze"/></rect>
+<g clip-path="url(#tickclip)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".7s" begin="2.9s" fill="freeze"/>
+  <g font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11.5">
+    <animateTransform attributeName="transform" type="translate" from="0,0" to="-1062.6000000000001,0"
+      dur="25s" repeatCount="indefinite"/>
+    <text y="177"><tspan x="42" fill="#afb8c1">●</tspan><tspan x="56" fill="#59636e">VANTIX</tspan><tspan x="105.4" fill="#1f2328">live signal engine</tspan><tspan x="249.6" fill="#d1d9e0">│</tspan><tspan x="265.6" fill="#afb8c1">●</tspan><tspan x="279.6" fill="#59636e">CREDIIFLOW</tspan><tspan x="356.6" fill="#1f2328">multi-tenant, in production</tspan><tspan x="562.9000000000001" fill="#d1d9e0">│</tspan><tspan x="578.9000000000001" fill="#afb8c1">●</tspan><tspan x="592.9000000000001" fill="#59636e">SLOTMEDIX</tspan><tspan x="663.0000000000001" fill="#1f2328">clinic booking, pre-launch</tspan><tspan x="862.4000000000001" fill="#d1d9e0">│</tspan><tspan x="878.4000000000001" fill="#1a7f37">●</tspan><tspan x="892.4000000000001" fill="#59636e">LAST SYNC</tspan><tspan x="962.5000000000001" fill="#1f2328">14:35 IST</tspan></text>
+    <text y="177"><tspan x="1104.6000000000001" fill="#afb8c1">●</tspan><tspan x="1118.6000000000001" fill="#59636e">VANTIX</tspan><tspan x="1168.0000000000002" fill="#1f2328">live signal engine</tspan><tspan x="1312.2000000000003" fill="#d1d9e0">│</tspan><tspan x="1328.2000000000003" fill="#afb8c1">●</tspan><tspan x="1342.2000000000003" fill="#59636e">CREDIIFLOW</tspan><tspan x="1419.2000000000003" fill="#1f2328">multi-tenant, in production</tspan><tspan x="1625.5000000000002" fill="#d1d9e0">│</tspan><tspan x="1641.5000000000002" fill="#afb8c1">●</tspan><tspan x="1655.5000000000002" fill="#59636e">SLOTMEDIX</tspan><tspan x="1725.6000000000001" fill="#1f2328">clinic booking, pre-launch</tspan><tspan x="1925.0000000000002" fill="#d1d9e0">│</tspan><tspan x="1941.0000000000002" fill="#1a7f37">●</tspan><tspan x="1955.0000000000002" fill="#59636e">LAST SYNC</tspan><tspan x="2025.1000000000001" fill="#1f2328">14:35 IST</tspan></text>
+  </g>
+</g>
+
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur=".8s" begin="3.1s" fill="freeze"/><g>
+      <circle cx="43" cy="216" r="3.2" fill="#1a7f37"/>
+      <circle cx="43" cy="216" r="3.2" fill="#1a7f37" opacity=".55">
+        <animate attributeName="r" values="3.2;9" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".55;0" dur="2.2s" begin="0.00s" repeatCount="indefinite"/>
+      </circle>
+      <text x="53" y="220" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.5" fill="#59636e" letter-spacing="1.1">SHIPPING · 0 live</text>
+    </g><g>
+      <circle cx="190.7" cy="216" r="3.2" fill="#0f8b93"/>
+      <circle cx="190.7" cy="216" r="3.2" fill="#0f8b93" opacity=".55">
+        <animate attributeName="r" values="3.2;9" dur="2.2s" begin="0.45s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".55;0" dur="2.2s" begin="0.45s" repeatCount="indefinite"/>
+      </circle>
+      <text x="200.7" y="220" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.5" fill="#59636e" letter-spacing="1.1">OPEN TO 2027 ROLES</text>
+    </g><g>
+      <circle cx="344.5" cy="216" r="3.2" fill="#8250df"/>
+      <circle cx="344.5" cy="216" r="3.2" fill="#8250df" opacity=".55">
+        <animate attributeName="r" values="3.2;9" dur="2.2s" begin="0.90s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".55;0" dur="2.2s" begin="0.90s" repeatCount="indefinite"/>
+      </circle>
+      <text x="354.5" y="220" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.5" fill="#59636e" letter-spacing="1.1">CEH CERTIFIED</text>
+    </g><g>
+      <circle cx="467.8" cy="216" r="3.2" fill="#bf3989"/>
+      <circle cx="467.8" cy="216" r="3.2" fill="#bf3989" opacity=".55">
+        <animate attributeName="r" values="3.2;9" dur="2.2s" begin="1.35s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".55;0" dur="2.2s" begin="1.35s" repeatCount="indefinite"/>
+      </circle>
+      <text x="477.8" y="220" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.5" fill="#59636e" letter-spacing="1.1">GHAZIABAD, NCR</text>
+    </g></g>
+
+</svg>

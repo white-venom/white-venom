@@ -1,41 +1,137 @@
-# Hi, I'm Sujeet 👋
+<!--
+  github.com/white-venom  ·  profile README
+  Assets are generated. Don't edit assets/ by hand — edit scripts/config.json and
+  run `node scripts/gen-static.mjs`, or let the Action do it.
+-->
 
-B.Tech CS student (cybersecurity focus), full-stack developer, and EC-Council
-CEH. I like building things from the ground up — the kind where you write the
-move generator, the parser, or the autograd yourself instead of importing it.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Sujeet Kansal — full-stack engineer, security, founder @ Tomoe" src="./assets/hero-dark.svg" width="100%">
+</picture>
 
-Most of what's below is small, self-contained, and **live in the browser** — no
-build step, no libraries doing the interesting part. Every algorithm-heavy one is
-tested (the chess move generator against perft, the sorts against `Array.sort`,
-the autograd by gradient-checking, and so on).
+I build products that go into production and stay there. Six live deployments, real
+paying clients, one developer. Final-year **CSE (Cybersecurity)** at Bennett University,
+**SDE Intern** at AFI Digital Services, and founder of [Tomoe](https://tomoe.agency).
 
-## Things I've built recently
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img alt="" src="./assets/divider-light.svg" width="100%">
+</picture>
 
-**Algorithms & CS**
-- [Chess engine](https://white-venom.github.io/chess-engine/) — legal move gen from scratch (perft-verified) + an alpha-beta AI · [code](https://github.com/white-venom/chess-engine)
-- [spark — a tiny language](https://white-venom.github.io/tiny-interpreter/) — lexer → parser → tree-walking interpreter, with closures & recursion · [code](https://github.com/white-venom/tiny-interpreter)
-- [Regex engine](https://white-venom.github.io/regex-engine/) — Thompson NFA, linear-time, no backtracking (handles `(a*)*b` in ~1ms) · [code](https://github.com/white-venom/regex-engine)
-- [Pathfinding visualizer](https://white-venom.github.io/pathfinding-visualizer/) — BFS / Dijkstra / A* / greedy on a grid · [code](https://github.com/white-venom/pathfinding-visualizer)
-- [Sorting visualizer](https://white-venom.github.io/sorting-visualizer/) — six algorithms with comparison/swap counters · [code](https://github.com/white-venom/sorting-visualizer)
-- [Huffman coding](https://white-venom.github.io/huffman-coding/) — build the tree, compress, visualize it · [code](https://github.com/white-venom/huffman-coding)
-- [Mini spreadsheet](https://white-venom.github.io/mini-spreadsheet/) — a real formula engine with dependency-ordered recalculation · [code](https://github.com/white-venom/mini-spreadsheet)
-- [Sudoku solver](https://white-venom.github.io/sudoku-solver/) — backtracking solver + generator with an animated search · [code](https://github.com/white-venom/sudoku-solver)
+## Stack
 
-**Machine learning**
-- [Neural net playground](https://white-venom.github.io/neural-net-playground/) — a hand-written autograd + MLP, trained live with a decision-boundary view · [code](https://github.com/white-venom/neural-net-playground)
+[![Stack](https://skillicons.dev/icons?i=python,php,ts,laravel,fastapi,react,nodejs,postgres,redis,docker,tailwind,vercel,git,aws&theme=dark&perline=14)](https://skillicons.dev)
 
-**Graphics, games & simulation**
-- [Rubik's cube](https://white-venom.github.io/rubiks-cube/) — interactive 3D cube (Three.js) with a real face-turn engine · [code](https://github.com/white-venom/rubiks-cube)
-- [Game of Life](https://white-venom.github.io/game-of-life/) — draw cells, stamp glider guns, watch it run · [code](https://github.com/white-venom/game-of-life)
-- [Boids](https://white-venom.github.io/boids-flocking/) — flocking from three simple rules · [code](https://github.com/white-venom/boids-flocking)
-- [Fractal explorer](https://white-venom.github.io/fractal-explorer/) — zoom endlessly into the Mandelbrot set · [code](https://github.com/white-venom/fractal-explorer)
-- [Raycaster](https://white-venom.github.io/raycaster/) — Wolfenstein-style fake 3D from a 2D grid · [code](https://github.com/white-venom/raycaster)
-- [Verlet physics](https://white-venom.github.io/verlet-physics/) — cloth & rope you can drag and cut, no physics library · [code](https://github.com/white-venom/verlet-physics)
+`Burp Suite` · `Kali Linux` · `OWASP Top 10` · `Wazuh` · `Razorpay` · `Hetzner`
 
-**Tools**
-- [Markdown editor](https://white-venom.github.io/markdown-editor/) — live preview with a from-scratch, XSS-safe parser · [code](https://github.com/white-venom/markdown-editor)
-- [Text diff](https://white-venom.github.io/text-diff/) — a git-style line diff via longest common subsequence · [code](https://github.com/white-venom/text-diff)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img alt="" src="./assets/divider-light.svg" width="100%">
+</picture>
+
+## Work
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/white-venom/vantix">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/vantix-dark.svg">
+    <img alt="Vantix — signal engine for NIFTY and BANKNIFTY F&O. FastAPI, React, PostgreSQL." src="./assets/cards/vantix-light.svg" width="100%">
+  </picture>
+</a>
+</td>
+<td width="50%">
+<a href="https://crediiflow.in">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/crediiflow-dark.svg">
+    <img alt="CrediiFlow — multi-tenant SaaS for daily cash-collection operations. Node, React, PostgreSQL. Live." src="./assets/cards/crediiflow-light.svg" width="100%">
+  </picture>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://tomoe.agency/work/gayatri-enterprises/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/gayatri-dark.svg">
+    <img alt="Gayatri Enterprises — B2B chemicals ERP covering orders, inventory and invoicing. Laravel, React. Live." src="./assets/cards/gayatri-light.svg" width="100%">
+  </picture>
+</a>
+</td>
+<td width="50%">
+<a href="https://slotmedix.bizflows.in">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/slotmedix-dark.svg">
+    <img alt="SlotMedix — appointment booking for solo practitioners and small clinics. Laravel, React, Razorpay." src="./assets/cards/slotmedix-light.svg" width="100%">
+  </picture>
+</a>
+</td>
+</tr>
+</table>
+
+Away from client work I build small, self-contained things and put them straight in the
+browser — a perft-verified chess engine, a Thompson-NFA regex engine, a hand-written
+autograd. **[The full build hub →](./PROJECTS.md)**
+
+## How it fits together
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/architecture-dark.svg">
+  <img alt="System diagram: client referrals flow into Tomoe, through the shared BizFlow platform, out to four client deployments." src="./assets/architecture-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img alt="" src="./assets/divider-light.svg" width="100%">
+</picture>
+
+## Projects
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/skyline-dark.svg">
+  <img alt="Project skyline — one building per project, height by commit count, colour by primary language." src="./assets/skyline-light.svg" width="100%">
+</picture>
+
+## Activity
+
+<img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=white-venom&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a371f7&text_color=8b949e&icon_color=39d0d8&ring_color=a371f7" />
+<img alt="Contribution streak" height="165" src="https://streak-stats.demolab.com?user=white-venom&hide_border=true&background=0d1117&ring=e3903a&fire=e3903a&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=e3903a&dates=5a6675&sideNums=e6edf3" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
+  <img alt="Commit activity over the last 20 weeks." src="./assets/activity-light.svg" width="100%">
+</picture>
+
+<img alt="Contribution calendar in 3D" src="./profile-3d-contrib/profile-night-view.svg" width="100%">
+
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/white-venom/white-venom/output/snake-dark.svg" width="100%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img alt="" src="./assets/divider-light.svg" width="100%">
+</picture>
+
+## Security
+
+CEH certified. I run OWASP Top 10 assessments at AFI, so I watch what lands against
+the things I actually ship.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/security-dark.svg">
+  <img alt="Live CVE feed from NVD, filtered to my stack." src="./assets/security-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img alt="" src="./assets/divider-light.svg" width="100%">
+</picture>
 
 ## Reach me
 
-kansalsujeetdps@gmail.com · [LinkedIn](https://linkedin.com/in/kansalsujeet5310) · [GitHub](https://github.com/white-venom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kansalsujeet5310-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kansalsujeet5310)
+[![Email](https://img.shields.io/badge/Email-kansalsujeetdps@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kansalsujeetdps@gmail.com)
+[![Tomoe](https://img.shields.io/badge/Agency-tomoe.agency-39d0d8?style=flat-square&logo=googlechrome&logoColor=white)](https://tomoe.agency)
+
+<sub>Hero, skyline, activity and CVE feed are regenerated by GitHub Actions. The numbers in the hero come from my own deployed systems — if an endpoint is down, it says so rather than showing a stale figure.</sub>

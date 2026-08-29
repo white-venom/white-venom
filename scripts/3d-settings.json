@@ -1,0 +1,8 @@
+{
+  "type": "night-view",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#8b949e",
+  "strongColor": "#e6edf3",
+  "contribTextColor": "#39d0d8",
+  "growingAnimation": true
+}

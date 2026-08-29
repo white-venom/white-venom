@@ -1,0 +1,121 @@
+{
+  "_comment": "The ONLY file you need to edit. Everything else reads from here.",
+
+  "identity": {
+    "name": "SUJEET KANSAL",
+    "tagline": "full-stack engineer · security · founder @ tomoe",
+    "timezone": "Asia/Kolkata",
+    "city": "GHAZIABAD"
+  },
+
+  "github": {
+    "primary": "white-venom",
+    "_comment": "extraRepos: owner/name for work on your agency accounts you want counted in the skyline",
+    "extraRepos": [
+      "bizflows1/crediiflow",
+      "bizflows1/workin",
+      "xcplllp/gayatri-erp",
+      "tomoeagency/slotmedix"
+    ]
+  },
+
+  "ticker": [
+    {
+      "label": "VANTIX",
+      "url": "https://vantix.example.com/api/public/stats",
+      "path": "signals_this_month",
+      "suffix": " signals this month",
+      "fallback": "live signal engine"
+    },
+    {
+      "label": "CREDIIFLOW",
+      "url": "https://crediiflow.in/api/public/stats",
+      "path": "collections_today",
+      "suffix": " collections today",
+      "fallback": "multi-tenant, in production"
+    },
+    {
+      "label": "SLOTMEDIX",
+      "url": "https://slotmedix.bizflows.in/api/public/stats",
+      "path": "bookings_this_week",
+      "suffix": " bookings this week",
+      "fallback": "clinic booking, pre-launch"
+    }
+  ],
+
+  "_ticker_help": "Each app should expose ONE read-only public JSON endpoint, e.g. {\"signals_this_month\": 1247}. No auth, no personal data, cache it for 5 min. If a URL is unreachable the 'fallback' string is shown instead — the profile never breaks.",
+
+  "flags": [
+    { "text": "SHIPPING", "colour": "green", "dynamic": "liveCount" },
+    { "text": "OPEN TO 2027 ROLES", "colour": "cyan" },
+    { "text": "CEH CERTIFIED", "colour": "violet" },
+    { "text": "GHAZIABAD, NCR", "colour": "magenta" }
+  ],
+
+  "projects": [
+    {
+      "slug": "vantix",
+      "kicker": "TRADING",
+      "name": "Vantix",
+      "blurb": "Signal engine for NIFTY and BANKNIFTY F&O. Backtesting harness, paper-trading loop, live alerts.",
+      "stack": "FastAPI · React · PostgreSQL",
+      "status": "build",
+      "href": "https://github.com/white-venom/vantix"
+    },
+    {
+      "slug": "crediiflow",
+      "kicker": "FINTECH",
+      "name": "CrediiFlow",
+      "blurb": "Multi-tenant SaaS running daily cash-collection operations for a finance client.",
+      "stack": "Node · React · PostgreSQL",
+      "status": "live",
+      "href": "https://crediiflow.in"
+    },
+    {
+      "slug": "gayatri",
+      "kicker": "ERP",
+      "name": "Gayatri Enterprises",
+      "blurb": "B2B chemicals platform covering orders, inventory and invoicing for a manufacturer.",
+      "stack": "Laravel · React",
+      "status": "live",
+      "href": "https://tomoe.agency/work/gayatri-enterprises/"
+    },
+    {
+      "slug": "slotmedix",
+      "kicker": "HEALTHCARE",
+      "name": "SlotMedix",
+      "blurb": "Appointment booking built for solo practitioners and small clinics across India.",
+      "stack": "Laravel · React · Razorpay",
+      "status": "build",
+      "href": "https://slotmedix.bizflows.in"
+    }
+  ],
+
+  "architecture": {
+    "nodes": [
+      { "id": "clients", "col": 0, "row": 2, "title": "Clients", "sub": "referrals", "colour": "fgMute" },
+      { "id": "tomoe", "col": 1, "row": 2, "title": "Tomoe", "sub": "agency", "colour": "cyan" },
+      { "id": "core", "col": 2, "row": 2, "title": "BizFlow core", "sub": "shared platform", "colour": "violet" },
+      { "id": "d1", "col": 3, "row": 0, "title": "CrediiFlow", "sub": "fintech · live", "colour": "green" },
+      { "id": "d2", "col": 3, "row": 1, "title": "Gayatri ERP", "sub": "manufacturing · live", "colour": "green" },
+      { "id": "d3", "col": 3, "row": 2, "title": "Agarwal & Co", "sub": "legal · live", "colour": "green" },
+      { "id": "d4", "col": 3, "row": 3, "title": "SlotMedix", "sub": "healthcare · build", "colour": "orange" }
+    ],
+    "edges": [
+      ["clients", "tomoe"], ["tomoe", "core"],
+      ["core", "d1"], ["core", "d2"], ["core", "d3"], ["core", "d4"]
+    ]
+  },
+
+  "security": {
+    "keywords": ["laravel", "react", "fastapi", "postgresql", "redis"],
+    "maxRows": 5,
+    "_comment": "Pulled from the NVD 2.0 API and filtered to your stack. Set NVD_API_KEY as a repo secret for a higher rate limit (optional)."
+  },
+
+  "contact": [
+    { "key": "LINKEDIN", "value": "kansalsujeet5310", "href": "https://linkedin.com/in/kansalsujeet5310" },
+    { "key": "EMAIL", "value": "kansalsujeetdps@gmail.com", "href": "mailto:kansalsujeetdps@gmail.com" },
+    { "key": "AGENCY", "value": "tomoe.agency", "href": "https://tomoe.agency" }
+  ]
+}

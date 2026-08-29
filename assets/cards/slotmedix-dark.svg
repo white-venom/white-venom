@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="150" viewBox="0 0 400 150" role="img" aria-label="SlotMedix — Appointment booking built for solo practitioners and small clinics across India. Built with Laravel · React · Razorpay.">
+<title>SlotMedix — Appointment booking built for solo practitioners and small clinics across India. Built with Laravel · React · Razorpay.</title>
+
+<defs>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#a371f7" stop-opacity=".14"/>
+    <stop offset="60%" stop-color="#a371f7" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="corner" x1="1" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#d63aa8" stop-opacity=".20"/>
+    <stop offset="70%" stop-color="#d63aa8" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#d63aa8"/><stop offset="100%" stop-color="#39d0d8"/>
+  </linearGradient>
+</defs>
+
+<rect width="400" height="150" fill="#0d1117"/>
+<rect x="1" y="1" width="398" height="148" rx="10" fill="#111722" stroke="#243040"/>
+<rect x="1" y="1" width="398" height="148" rx="10" fill="url(#glow)"/>
+<rect x="290" y="1" width="109" height="80" fill="url(#corner)"/>
+
+<rect x="1" y="146" width="0" height="3" rx="1.5" fill="url(#edge)">
+  <animate attributeName="width" values="0;398;0" dur="6s" repeatCount="indefinite"
+    keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+</rect>
+
+<text x="22" y="32" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10.5" fill="#d63aa8" letter-spacing="2.4">HEALTHCARE</text>
+
+<text x="22" y="58" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#e6edf3">SlotMedix</text>
+<rect x="110.3" y="45" width="65.6" height="16" rx="8" fill="#e3903a" fill-opacity=".14" stroke="#e3903a" stroke-opacity=".45"/>
+<text x="143.1" y="56.5" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="9" fill="#e3903a"
+      text-anchor="middle" letter-spacing="1">IN BUILD</text>
+
+<text x="22" y="80" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b949e">Appointment booking built for solo</text>
+<text x="22" y="95" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b949e">practitioners and small clinics across India.</text>
+
+<text x="22" y="130" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11" fill="#39d0d8">Laravel · React · Razorpay</text>
+
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="150" viewBox="0 0 840 150" role="img" aria-label="Commit activity over the last 20 weeks, peaking at 162 in a week.">
+<title>Commit activity over the last 20 weeks, peaking at 162 in a week.</title>
+
+<defs>
+  <linearGradient id="af" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#39d0d8" stop-opacity=".28"/>
+    <stop offset="100%" stop-color="#39d0d8" stop-opacity="0"/></linearGradient>
+  <linearGradient id="al" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#39d0d8"/><stop offset="100%" stop-color="#a371f7"/></linearGradient>
+</defs>
+<rect width="840" height="150" fill="#0d1117"/>
+<text x="40" y="26" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" fill="#3d4756" letter-spacing="2.5">COMMIT ACTIVITY · LAST 20 WEEKS · PEAK 162</text>
+<rect x="23.8" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="0.0" dur=".9s" begin="0.00s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="120.0" dur=".9s" begin="0.00s" fill="freeze"/></rect><rect x="64.3" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="0.0" dur=".9s" begin="0.04s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="120.0" dur=".9s" begin="0.04s" fill="freeze"/></rect><rect x="104.8" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="2.4" dur=".9s" begin="0.07s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="117.6" dur=".9s" begin="0.07s" fill="freeze"/></rect><rect x="145.3" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="0.5" dur=".9s" begin="0.11s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="119.5" dur=".9s" begin="0.11s" fill="freeze"/></rect><rect x="185.9" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="14.9" dur=".9s" begin="0.14s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="105.1" dur=".9s" begin="0.14s" fill="freeze"/></rect><rect x="226.4" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="4.8" dur=".9s" begin="0.18s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="115.2" dur=".9s" begin="0.18s" fill="freeze"/></rect><rect x="266.9" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="29.9" dur=".9s" begin="0.21s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="90.1" dur=".9s" begin="0.21s" fill="freeze"/></rect><rect x="307.4" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="31.8" dur=".9s" begin="0.25s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="88.2" dur=".9s" begin="0.25s" fill="freeze"/></rect><rect x="348.0" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="45.7" dur=".9s" begin="0.28s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="74.3" dur=".9s" begin="0.28s" fill="freeze"/></rect><rect x="388.5" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="31.8" dur=".9s" begin="0.32s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="88.2" dur=".9s" begin="0.32s" fill="freeze"/></rect><rect x="429.0" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="27.4" dur=".9s" begin="0.35s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="92.6" dur=".9s" begin="0.35s" fill="freeze"/></rect><rect x="469.5" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="78.0" dur=".9s" begin="0.39s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="42.0" dur=".9s" begin="0.39s" fill="freeze"/></rect><rect x="510.1" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="63.1" dur=".9s" begin="0.42s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="56.9" dur=".9s" begin="0.42s" fill="freeze"/></rect><rect x="550.6" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="61.1" dur=".9s" begin="0.46s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="58.9" dur=".9s" begin="0.46s" fill="freeze"/></rect><rect x="591.1" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="77.5" dur=".9s" begin="0.49s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="42.5" dur=".9s" begin="0.49s" fill="freeze"/></rect><rect x="631.6" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="40.9" dur=".9s" begin="0.53s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="79.1" dur=".9s" begin="0.53s" fill="freeze"/></rect><rect x="672.2" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="68.9" dur=".9s" begin="0.56s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="51.1" dur=".9s" begin="0.56s" fill="freeze"/></rect><rect x="712.7" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="31.3" dur=".9s" begin="0.60s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="88.7" dur=".9s" begin="0.60s" fill="freeze"/></rect><rect x="753.2" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="28.9" dur=".9s" begin="0.63s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="91.1" dur=".9s" begin="0.63s" fill="freeze"/></rect><rect x="793.8" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
+      <animate attributeName="height" from="0" to="60.7" dur=".9s" begin="0.67s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="59.3" dur=".9s" begin="0.67s" fill="freeze"/></rect>
+<line x1="28" y1="120" x2="822" y2="120" stroke="#1e2836"/>
+<path d="M40.0,120.0 L80.5,120.0 L121.1,117.6 L161.6,119.5 L202.1,105.1 L242.6,115.2 L283.2,90.1 L323.7,88.2 L364.2,74.3 L404.7,88.2 L445.3,92.6 L485.8,42.0 L526.3,56.9 L566.8,58.9 L607.4,42.5 L647.9,79.1 L688.4,51.1 L728.9,88.7 L769.5,91.1 L810.0,59.3 L810.0,120 L40,120 Z" fill="url(#af)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="1s" begin="1s" fill="freeze"/></path>
+<path d="M40.0,120.0 L80.5,120.0 L121.1,117.6 L161.6,119.5 L202.1,105.1 L242.6,115.2 L283.2,90.1 L323.7,88.2 L364.2,74.3 L404.7,88.2 L445.3,92.6 L485.8,42.0 L526.3,56.9 L566.8,58.9 L607.4,42.5 L647.9,79.1 L688.4,51.1 L728.9,88.7 L769.5,91.1 L810.0,59.3" fill="none" stroke="url(#al)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"
+  stroke-dasharray="2000" stroke-dashoffset="2000">
+  <animate attributeName="stroke-dashoffset" from="2000" to="0" dur="2s" begin=".3s" fill="freeze"/></path>
+<circle cx="810.0" cy="59.3" r="0" fill="#a371f7">
+  <animate attributeName="r" from="0" to="4.5" dur=".4s" begin="2.2s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;.35;1" dur="2s" begin="2.6s" repeatCount="indefinite"/></circle>
+
+</svg>
