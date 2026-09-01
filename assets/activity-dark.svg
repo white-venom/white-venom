@@ -49,15 +49,15 @@
       <animate attributeName="y" from="120" to="91.3" dur=".9s" begin="0.60s" fill="freeze"/></rect><rect x="753.2" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
       <animate attributeName="height" from="0" to="78.0" dur=".9s" begin="0.63s" fill="freeze"/>
       <animate attributeName="y" from="120" to="42.0" dur=".9s" begin="0.63s" fill="freeze"/></rect><rect x="793.8" y="120" width="32.5" height="0" rx="2" fill="#0a0f16" stroke="#1e2836" stroke-opacity=".6">
-      <animate attributeName="height" from="0" to="4.3" dur=".9s" begin="0.67s" fill="freeze"/>
-      <animate attributeName="y" from="120" to="115.7" dur=".9s" begin="0.67s" fill="freeze"/></rect>
+      <animate attributeName="height" from="0" to="6.2" dur=".9s" begin="0.67s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="113.8" dur=".9s" begin="0.67s" fill="freeze"/></rect>
 <line x1="28" y1="120" x2="822" y2="120" stroke="#1e2836"/>
-<path d="M40.0,120.0 L80.5,117.6 L121.1,119.5 L161.6,105.2 L202.1,115.2 L242.6,90.3 L283.2,88.4 L323.7,74.5 L364.2,88.4 L404.7,84.1 L445.3,43.4 L485.8,57.3 L526.3,59.2 L566.8,43.0 L607.4,79.3 L647.9,51.6 L688.4,88.9 L728.9,91.3 L769.5,42.0 L810.0,115.7 L810.0,120 L40,120 Z" fill="url(#af)" opacity="0">
+<path d="M40.0,120.0 L80.5,117.6 L121.1,119.5 L161.6,105.2 L202.1,115.2 L242.6,90.3 L283.2,88.4 L323.7,74.5 L364.2,88.4 L404.7,84.1 L445.3,43.4 L485.8,57.3 L526.3,59.2 L566.8,43.0 L607.4,79.3 L647.9,51.6 L688.4,88.9 L728.9,91.3 L769.5,42.0 L810.0,113.8 L810.0,120 L40,120 Z" fill="url(#af)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="1s" begin="1s" fill="freeze"/></path>
-<path d="M40.0,120.0 L80.5,117.6 L121.1,119.5 L161.6,105.2 L202.1,115.2 L242.6,90.3 L283.2,88.4 L323.7,74.5 L364.2,88.4 L404.7,84.1 L445.3,43.4 L485.8,57.3 L526.3,59.2 L566.8,43.0 L607.4,79.3 L647.9,51.6 L688.4,88.9 L728.9,91.3 L769.5,42.0 L810.0,115.7" fill="none" stroke="url(#al)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"
+<path d="M40.0,120.0 L80.5,117.6 L121.1,119.5 L161.6,105.2 L202.1,115.2 L242.6,90.3 L283.2,88.4 L323.7,74.5 L364.2,88.4 L404.7,84.1 L445.3,43.4 L485.8,57.3 L526.3,59.2 L566.8,43.0 L607.4,79.3 L647.9,51.6 L688.4,88.9 L728.9,91.3 L769.5,42.0 L810.0,113.8" fill="none" stroke="url(#al)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"
   stroke-dasharray="2000" stroke-dashoffset="2000">
   <animate attributeName="stroke-dashoffset" from="2000" to="0" dur="2s" begin=".3s" fill="freeze"/></path>
-<circle cx="810.0" cy="115.7" r="0" fill="#a371f7">
+<circle cx="810.0" cy="113.8" r="0" fill="#a371f7">
   <animate attributeName="r" from="0" to="4.5" dur=".4s" begin="2.2s" fill="freeze"/>
   <animate attributeName="opacity" values="1;.35;1" dur="2s" begin="2.6s" repeatCount="indefinite"/></circle>
 
