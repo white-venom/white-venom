@@ -45,11 +45,11 @@
 </g>
 <g opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur=".5s" begin="1.10s" fill="freeze"/>
-  <text x="38" y="180" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#8b949e">CVE-2026-41889</text>
+  <text x="38" y="180" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#8b949e">CVE-2026-48818</text>
   <rect x="176" y="169" width="46" height="15" rx="3" fill="#f85149" fill-opacity=".16"/>
-  <text x="199" y="180" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#f85149" text-anchor="middle">CRIT</text>
-  <text x="240" y="180" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#e6edf3">postgresql</text>
-  <text x="802" y="180" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#5a6675" text-anchor="end">2026-05-08</text>
+  <text x="199" y="180" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#f85149" text-anchor="middle">HIGH</text>
+  <text x="240" y="180" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#e6edf3">fastapi</text>
+  <text x="802" y="180" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#5a6675" text-anchor="end">2026-06-17</text>
   <line x1="38" y1="189" x2="802" y2="189" stroke="#1e2836" stroke-opacity=".55"/>
 </g>
 
