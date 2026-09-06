@@ -1,20 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="114" viewBox="0 0 840 114" role="img" aria-label="Live CVE feed filtered to my stack: 1 recent advisories, highest severity LOW.">
-<title>Live CVE feed filtered to my stack: 1 recent advisories, highest severity LOW.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="218" viewBox="0 0 840 218" role="img" aria-label="Live CVE feed filtered to my stack: 5 recent advisories, highest severity CRITICAL.">
+<title>Live CVE feed filtered to my stack: 5 recent advisories, highest severity CRITICAL.</title>
 
-<rect width="840" height="114" fill="#ffffff"/>
-<rect x="18" y="14" width="804" height="86" rx="7" fill="#f0f3f6" stroke="#d1d9e0"/>
+<rect width="840" height="218" fill="#ffffff"/>
+<rect x="18" y="14" width="804" height="190" rx="7" fill="#f0f3f6" stroke="#d1d9e0"/>
 <text x="38" y="42" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="10" fill="#afb8c1" letter-spacing="2.5">CVE FEED · MATCHED TO MY STACK · NVD</text>
 <circle cx="800" cy="38" r="3.5" fill="#1a7f37">
   <animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
 <line x1="38" y1="54" x2="802" y2="54" stroke="#d1d9e0"/>
 <g opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur=".5s" begin="0.30s" fill="freeze"/>
-  <text x="38" y="76" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#59636e">feed unavailable</text>
-  <rect x="176" y="65" width="46" height="15" rx="3" fill="#59636e" fill-opacity=".16"/>
-  <text x="199" y="76" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#59636e" text-anchor="middle">LOW</text>
-  <text x="240" y="76" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#1f2328">retrying next run</text>
-  <text x="802" y="76" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#818b98" text-anchor="end"></text>
+  <text x="38" y="76" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#59636e">CVE-2026-48172</text>
+  <rect x="176" y="65" width="46" height="15" rx="3" fill="#cf222e" fill-opacity=".16"/>
+  <text x="199" y="76" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#cf222e" text-anchor="middle">CRIT</text>
+  <text x="240" y="76" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#1f2328">redis</text>
+  <text x="802" y="76" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#818b98" text-anchor="end">2026-05-21</text>
   <line x1="38" y1="85" x2="802" y2="85" stroke="#d1d9e0" stroke-opacity=".55"/>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".5s" begin="0.50s" fill="freeze"/>
+  <text x="38" y="102" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#59636e">CVE-2026-42031</text>
+  <rect x="176" y="91" width="46" height="15" rx="3" fill="#cf222e" fill-opacity=".16"/>
+  <text x="199" y="102" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#cf222e" text-anchor="middle">CRIT</text>
+  <text x="240" y="102" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#1f2328">postgresql</text>
+  <text x="802" y="102" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#818b98" text-anchor="end">2026-05-13</text>
+  <line x1="38" y1="111" x2="802" y2="111" stroke="#d1d9e0" stroke-opacity=".55"/>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".5s" begin="0.70s" fill="freeze"/>
+  <text x="38" y="128" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#59636e">CVE-2026-42032</text>
+  <rect x="176" y="117" width="46" height="15" rx="3" fill="#cf222e" fill-opacity=".16"/>
+  <text x="199" y="128" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#cf222e" text-anchor="middle">CRIT</text>
+  <text x="240" y="128" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#1f2328">postgresql</text>
+  <text x="802" y="128" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#818b98" text-anchor="end">2026-05-13</text>
+  <line x1="38" y1="137" x2="802" y2="137" stroke="#d1d9e0" stroke-opacity=".55"/>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".5s" begin="0.90s" fill="freeze"/>
+  <text x="38" y="154" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#59636e">CVE-2026-44262</text>
+  <rect x="176" y="143" width="46" height="15" rx="3" fill="#cf222e" fill-opacity=".16"/>
+  <text x="199" y="154" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#cf222e" text-anchor="middle">CRIT</text>
+  <text x="240" y="154" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#1f2328">laravel</text>
+  <text x="802" y="154" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#818b98" text-anchor="end">2026-05-12</text>
+  <line x1="38" y1="163" x2="802" y2="163" stroke="#d1d9e0" stroke-opacity=".55"/>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur=".5s" begin="1.10s" fill="freeze"/>
+  <text x="38" y="180" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#59636e">CVE-2026-48818</text>
+  <rect x="176" y="169" width="46" height="15" rx="3" fill="#cf222e" fill-opacity=".16"/>
+  <text x="199" y="180" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="9.5" fill="#cf222e" text-anchor="middle">HIGH</text>
+  <text x="240" y="180" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#1f2328">fastapi</text>
+  <text x="802" y="180" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11" fill="#818b98" text-anchor="end">2026-06-17</text>
+  <line x1="38" y1="189" x2="802" y2="189" stroke="#d1d9e0" stroke-opacity=".55"/>
 </g>
 
 </svg>
