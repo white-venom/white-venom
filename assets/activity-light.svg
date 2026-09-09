@@ -49,15 +49,15 @@
       <animate attributeName="y" from="120" to="83.6" dur=".9s" begin="0.60s" fill="freeze"/></rect><rect x="753.2" y="120" width="32.5" height="0" rx="2" fill="#f0f3f6" stroke="#d1d9e0" stroke-opacity=".6">
       <animate attributeName="height" from="0" to="30.4" dur=".9s" begin="0.63s" fill="freeze"/>
       <animate attributeName="y" from="120" to="89.6" dur=".9s" begin="0.63s" fill="freeze"/></rect><rect x="793.8" y="120" width="32.5" height="0" rx="2" fill="#f0f3f6" stroke="#d1d9e0" stroke-opacity=".6">
-      <animate attributeName="height" from="0" to="14.3" dur=".9s" begin="0.67s" fill="freeze"/>
-      <animate attributeName="y" from="120" to="105.7" dur=".9s" begin="0.67s" fill="freeze"/></rect>
+      <animate attributeName="height" from="0" to="17.2" dur=".9s" begin="0.67s" fill="freeze"/>
+      <animate attributeName="y" from="120" to="102.8" dur=".9s" begin="0.67s" fill="freeze"/></rect>
 <line x1="28" y1="120" x2="822" y2="120" stroke="#d1d9e0"/>
-<path d="M40.0,118.6 L80.5,119.8 L121.1,109.2 L161.6,116.5 L202.1,106.6 L242.6,103.4 L283.2,86.9 L323.7,98.1 L364.2,100.5 L404.7,42.0 L445.3,79.9 L485.8,58.3 L526.3,70.3 L566.8,69.4 L607.4,69.8 L647.9,106.6 L688.4,106.9 L728.9,83.6 L769.5,89.6 L810.0,105.7 L810.0,120 L40,120 Z" fill="url(#af)" opacity="0">
+<path d="M40.0,118.6 L80.5,119.8 L121.1,109.2 L161.6,116.5 L202.1,106.6 L242.6,103.4 L283.2,86.9 L323.7,98.1 L364.2,100.5 L404.7,42.0 L445.3,79.9 L485.8,58.3 L526.3,70.3 L566.8,69.4 L607.4,69.8 L647.9,106.6 L688.4,106.9 L728.9,83.6 L769.5,89.6 L810.0,102.8 L810.0,120 L40,120 Z" fill="url(#af)" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="1s" begin="1s" fill="freeze"/></path>
-<path d="M40.0,118.6 L80.5,119.8 L121.1,109.2 L161.6,116.5 L202.1,106.6 L242.6,103.4 L283.2,86.9 L323.7,98.1 L364.2,100.5 L404.7,42.0 L445.3,79.9 L485.8,58.3 L526.3,70.3 L566.8,69.4 L607.4,69.8 L647.9,106.6 L688.4,106.9 L728.9,83.6 L769.5,89.6 L810.0,105.7" fill="none" stroke="url(#al)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"
+<path d="M40.0,118.6 L80.5,119.8 L121.1,109.2 L161.6,116.5 L202.1,106.6 L242.6,103.4 L283.2,86.9 L323.7,98.1 L364.2,100.5 L404.7,42.0 L445.3,79.9 L485.8,58.3 L526.3,70.3 L566.8,69.4 L607.4,69.8 L647.9,106.6 L688.4,106.9 L728.9,83.6 L769.5,89.6 L810.0,102.8" fill="none" stroke="url(#al)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"
   stroke-dasharray="2000" stroke-dashoffset="2000">
   <animate attributeName="stroke-dashoffset" from="2000" to="0" dur="2s" begin=".3s" fill="freeze"/></path>
-<circle cx="810.0" cy="105.7" r="0" fill="#8250df">
+<circle cx="810.0" cy="102.8" r="0" fill="#8250df">
   <animate attributeName="r" from="0" to="4.5" dur=".4s" begin="2.2s" fill="freeze"/>
   <animate attributeName="opacity" values="1;.35;1" dur="2s" begin="2.6s" repeatCount="indefinite"/></circle>
 
